@@ -1,0 +1,24 @@
+.h1 {
+    font-size: 30px;
+    align-items: center;
+}
+
+.label1 {
+    font-size: 40px;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.btn {
+    align-items: center;
+
+}
+
+.fontsize {
+    font-size: 30px;
+}
+
+.weatherapp {
+    font-size: 20px;
+    align-items: center;
+}
